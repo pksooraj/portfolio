@@ -1,0 +1,1 @@
+# Ransomware Response Writeup
